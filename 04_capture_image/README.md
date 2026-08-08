@@ -34,7 +34,19 @@ S 키를 누르면 현재 카메라 프레임을 PNG 파일로 저장하며,
 
 Q 키를 누르면 프로그램을 종료합니다.
 
+## Demo
+
+실시간 카메라 영상에서 S 키를 눌러 이미지를 저장하는 동작 영상입니다.
+
+[동작 영상](https://www.youtube.com/shorts/l4bMNB-5xew)
+
 ## Result
 
-실시간 카메라 영상에서 원하는 순간의 이미지를
-PNG 파일로 저장하는 것을 확인했습니다.
+<img width="1920" height="1032" alt="4번 사진" src="https://github.com/user-attachments/assets/0a1d0816-6e5d-45f0-aa02-7cc51252dca8" />
+
+S 키를 눌러 실시간 카메라 영상에서 원하는 프레임을 캡처하고
+PNG 이미지로 저장한 결과입니다.
+
+
+
+
