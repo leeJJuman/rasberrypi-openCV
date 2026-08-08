@@ -32,3 +32,9 @@ Canny Edge Detection을 적용하여 영상의 윤곽선을 검출했습니다.
 
 실시간 카메라 영상에 Canny Edge Detection과
 Flip을 적용한 결과를 확인했습니다.
+
+## Demo
+
+실시간 카메라 영상에 Canny Edge Detection과 Flip을 적용한 결과입니다.
+
+[동작 영상](https://www.youtube.com/shorts/1xZU6AVKqjs)
