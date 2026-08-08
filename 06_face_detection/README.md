@@ -30,6 +30,12 @@ Grayscale 이미지로 변환한 후 Haar Cascade Classifier를 이용하여
 검출된 얼굴의 위치를 Bounding Box로 표시하여
 실시간으로 얼굴의 위치를 확인할 수 있도록 구현했습니다.
 
+## Demo
+
+Haar Cascade Classifier를 이용하여 실시간 카메라 영상에서 얼굴을 검출하는 결과입니다.
+
+[동작 영상](https://www.youtube.com/shorts/LIeUNX8J5ds)
+
 ## Result
 
 카메라 영상에서 얼굴을 검출하고
