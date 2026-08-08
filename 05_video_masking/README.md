@@ -34,6 +34,12 @@ HSV 색 공간을 이용하여 실시간 영상에서
 생성된 Mask를 결합한 후 Bitwise Operation을 이용하여
 검출된 색상 영역만 원본 영상에 표시했습니다.
 
+## Demo
+
+HSV 색 공간을 이용하여 특정 색상 영역을 검출하고 마스킹하는 과정을 확인할 수 있습니다.
+
+[동작 영상](https://www.youtube.com/shorts/8uY9u5GmhPM)
+
 ## Result
 
 실시간 카메라 영상에서 설정한 색상 영역만
