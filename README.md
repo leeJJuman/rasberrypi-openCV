@@ -113,10 +113,6 @@ Raspberry Pi AI Car Kit을 이용하여 특정 색상을 추적하는 자동차 
 - Motor Control
 - Raspberry Pi AI Car
 
-## Demo
-
-각 실습의 동작 영상은 해당 실습 폴더에서 확인할 수 있습니다.
-
 ## Future Improvements
 
 - Object Tracking
