@@ -34,3 +34,9 @@ Picamera2를 이용하여 Raspberry Pi Camera를 초기화하고
 
 Raspberry Pi Camera에서 입력되는 실시간 영상을
 OpenCV 화면에 출력했습니다.
+
+## Demo
+
+Raspberry Pi Camera를 이용한 실시간 영상 출력 결과입니다.
+
+[동작 영상](https://youtube.com/shorts/lHhXgpzLNIs?si=7h8EErupb9AnMzHx)
