@@ -36,5 +36,7 @@ Gaussian Blur를 이용하여 이미지에 Blur 효과를 적용했습니다.
 기본적인 도형 그리기 기능을 실습했습니다.
 
 ## Result
-
-각 이미지 처리 결과를 화면에 출력하여 확인했습니다.
+<img width="1920" height="1032" alt="1번 사진원본" src="https://github.com/user-attachments/assets/529403e3-690b-42c0-aef9-fe97b56c1a01" />
+원본 이미지 입니다.
+![Uploading 1번 사진.png…]()
+이미지에 다양한 OpenCV 처리를 적용한 결과입니다.
