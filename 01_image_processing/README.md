@@ -38,5 +38,6 @@ Gaussian Blur를 이용하여 이미지에 Blur 효과를 적용했습니다.
 ## Result
 <img width="1920" height="1032" alt="1번 사진원본" src="https://github.com/user-attachments/assets/529403e3-690b-42c0-aef9-fe97b56c1a01" />
 원본 이미지 입니다.
-![Uploading 1번 사진.png…]()
+<img width="1920" height="1080" alt="1번 사진" src="https://github.com/user-attachments/assets/27486443-c942-4918-9204-57fda8a9e325" />
+
 이미지에 다양한 OpenCV 처리를 적용한 결과입니다.
